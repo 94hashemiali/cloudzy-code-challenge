@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "image": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+    "name": "product-name-1",
+    "description": "description",
+    "price": 2900000
+  },
+  {
+    "id": "2",
+    "image": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+    "name": "product-name-2",
+    "description": "description",
+    "price": 1300000
+  },
+  {
+    "id": "3",
+    "image": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+    "name": "product-name-3",
+    "description": "description",
+    "price": 2300000
+  },
+  {
+    "id": "4",
+    "image": "https://zos.alipayobjects.com/rmsportal/jkjgkEfvpUPVyRjUImniVslZfWPnJuuZ.png",
+    "name": "product-name-4",
+    "description": "description",
+    "price": 39400000
+  }
+]

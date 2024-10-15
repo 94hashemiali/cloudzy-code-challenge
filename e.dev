@@ -1,0 +1,3 @@
+VITE_API_URL=
+VITE_FILE_API_URL=
+VITE_WHITE_DOMAINS='[{"domain": "cloudzy.com", "force_https": true}]'
